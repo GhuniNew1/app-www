@@ -82,11 +82,10 @@ button:focus-visible {
 .spinner {
   display: flex;
   margin: 10vw auto;
+  padding: 0;
   align-items: center;
   justify-content: center;
   justify-items: center;
-  margin-right: auto;
-  margin-left: auto;
   transition: opacity linear 0.1s;
   width: 5rem;
   height: 5rem;
