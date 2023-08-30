@@ -1,15 +1,10 @@
-# 🚀 Welcome to your new awesome project!
+# app-www
 
-This project has been created using **webpack-cli**, you can now run
-
-```
-npm run build
-```
-
-or
-
-```
-yarn build
-```
-
-to bundle your application
+<p align="center">
+    <a href="https://github.com/ghuninew1" alt="github">
+        <img src="https://img.shields.io/badge/-@ghuninew1-%23181717?style=flat&logo=github" />
+    </a>
+    <img src="https://img.shields.io/github/repo-size/ghuninew1/app-www" />
+    <img src="https://img.shields.io/github/directory-file-count/ghuninew1/app-www" />
+    <img src="https://img.shields.io/github/release-date/ghuninew1/app-www" />
+</p>
